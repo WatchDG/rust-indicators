@@ -1,0 +1,11 @@
+[package]
+name = "indicators"
+version = "0.1.0"
+authors = ["WatchDG <baranov@w3m.co>"]
+license = "MIT OR Apache-2.0"
+description = "time series"
+homepage = "https://github.com/WatchDG/rust-indicators"
+documentation = "https://docs.rs/time-indicators"
+repository = "https://github.com/WatchDG/rust-indicators"
+readme = "README.md"
+edition = "2018"
